@@ -76,7 +76,7 @@ const Avatar = forwardRef<HTMLDivElement, AvatarProps>(
             radius="full"
             src={src}
             fill
-            alt="Avatar"
+            alt="Avata"
             sizes={`${sizeMapping[size]}px`}
             className={styles.image}
           />
